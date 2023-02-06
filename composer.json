@@ -1,0 +1,19 @@
+{
+    "name": "iasonarg/lara-xtnd",
+    "license": "MIT",
+    "description": "package that allows for raid route generation for laravel",
+        "autoload": {
+        "psr-4": {
+            "IasonArg\\LaraXtnd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iason Argyrakis",
+            "email": "jasonargirakis@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+    
+}
